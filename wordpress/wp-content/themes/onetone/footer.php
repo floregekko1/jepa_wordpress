@@ -36,7 +36,7 @@
                       if( is_home() || is_front_page()){
                         printf(__('Designed by <a href="%s">PENYAH </a>.','onetone'),esc_url('http://www.afriquemedia.tv/'));
                       }else{
-						 printf(__('Designed by MageeWP Themes.','onetone')); 
+						 printf(__('Conçu par PENYAH.','onetone')); 
 						  }
 						  ?>
 </div>
